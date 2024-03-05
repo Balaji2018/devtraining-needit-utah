@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f9ef04c5db7c0610280b5db5f39619af" label="allTask" max_length="40" name="x_58872_needit_alltask" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="status" max_length="40" name="status" type="string"/>
+    </element>
+</database>
